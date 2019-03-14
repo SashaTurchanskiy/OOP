@@ -1,4 +1,4 @@
-package com.company;
+-package com.company;
 
 class Animal {
         public void animalSound() {
